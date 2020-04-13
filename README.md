@@ -54,6 +54,16 @@ Todos os commits seguem um padrão estabelecido atravez de um conjunto de ferram
 - Commitizen
 - Cz-emoji
 
+**Adicionar arquivos no commit**
+```shell
+git add .
+```
+
+**Realizar commit**
+```shell
+git cz
+```
+
 # Testes
 
 Todos os testes deve ser armazenados no diretorio `/src/tests`. São utilizados para realizar os testes as ferramentas:
